@@ -103,7 +103,7 @@ body{
 }
 
 .center:hover{
-    background-color: #EEEB18;
+    background-color: #EEEB18; 
     color: black;
     box-shadow: 0 25PX 50PX #EEEB18;
     cursor: pointer;
